@@ -1,0 +1,62 @@
+html {
+    background: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+
+header{
+    font-family: 'Tangerine';
+    font-size: 72px;
+    margin: 20px;
+}
+
+h3 {
+    font-family: 'Unica One';
+}
+
+img {
+    width: 540px;
+}
+
+.watch_container img{
+    margin:  10px;
+    float: left;
+    height: 200px;
+    width: auto;
+}
+
+h2 {
+    font-family: 'Unica One';
+    margin: 10px;
+}
+
+p {
+    font-family: 'Dosis'
+}
+
+footer {
+    margin: 25px;
+    font: 30px Dosis;
+    text-align: center;
+}
+
+.top {
+    margin: 20px; 
+    text-align: center;
+}
+
+.all_watches_container {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.watch_container{
+    border: 2px;
+    border-radius: 13px;
+    border-color: #fdefa6;
+    border-style: solid;
+    background-color: #1a1818;
+    margin: 15px;
+    padding: 16px;
+}
+
+
